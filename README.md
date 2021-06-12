@@ -18,5 +18,5 @@ Summarizing and Analysing the data for model building to predict who is likely t
 
 
 ## Model deployment
-* I have deployed model by using flask.
+* I have deployed the model by using flask.
 * For deploymet i have upload diffrent zip file under name deployment. 
