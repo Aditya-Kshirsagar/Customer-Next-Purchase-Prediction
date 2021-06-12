@@ -20,3 +20,4 @@ Summarizing and Analysing the data for model building to predict who is likely t
 ## Model deployment
 * I have deployed the model by using flask.
 * For deploymet i have upload diffrent zip file under name deployment. 
+###### Install flask in jupyter notebook - !pip install Flask / Other pip install Flask (version- 2.0.1)
